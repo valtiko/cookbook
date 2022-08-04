@@ -1,0 +1,25 @@
+
+body {
+  display: flex;
+  justify-content: center;
+}
+
+form {
+  background-color: rgba(183, 180, 180, 0.3);
+  min-width: 500px;
+  padding: 10px 20px;
+  border: 3px solid lightgray;
+  border-radius: 20px;
+
+  P {
+    color: red;
+  }
+}
+
+button {
+  margin: 16px 0;
+  font-size: 16px;
+  border: 2px solid lightgray;
+  cursor: pointer;
+}
+
